@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.3.3",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v1.3.3/MaFA_L2M.zip",
+  "latest_version": "1.4.0",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v1.4.0/MaFA_L2M.zip",
   "changelog": "🎉 Initial release:\n- First version of L2M app.\n- Support for Windows.\n- Basic functionality implemented."
 }
