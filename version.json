@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.10",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v2.0.10/MaFA_L2M.zip",
-  "changelog": " Fix lỗi PK"
+  "latest_version": "2.0.11",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v2.0.11/MaFA_L2M.zip",
+  "changelog": " Thêm nút tạm dừng. Lưu ý là chỉ được tạm dừng khi đã ở trong bãi hoặc phó bản nhé. Và lúc tạm dừng có thể cập nhật được cái setting như máu, pk, vân vân mây mây nhé ae!"
 }
