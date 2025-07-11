@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.16",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v2.0.16/MaFA_L2M.zip",
-  "changelog": " Update"
+  "latest_version": "3.0.0",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.0.0/MaFA_L2M.zip",
+  "changelog": "Thêm tính năng nhiệm vụ chính tuyến.\n\nLưu ý: Nhiệm vụ thăm dò tháp với hang kiến có thể không chạy được. Nên nếu thấy bị treo chỗ này thì ae làm tay nó nhé.\nMột cái nữa là ae phải chạy lên lv 10 trước rồi mới chạy auto được nhé!"
 }
