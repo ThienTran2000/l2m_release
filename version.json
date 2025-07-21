@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.2.0",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.2.0/MaFA_L2M.zip",
+  "latest_version": "3.2.1",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.2.1/MaFA_L2M.zip",
   "changelog": "- Thêm tính năng lên hang kiến T1 T2 T#\n- Thêm tính năng phản công khi bị PK"
 }
