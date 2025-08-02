@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.5.1",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.5.1/MaFA_L2M.zip",
-  "changelog": "- Thêm tính năng thủ kho > 50%.\n- Fix lỗi lên tầng 5\n- Add thêm tính năng buff trong đảo, pháo đài\n- Update các thông số qua nút Pause mà không cần phải dừng Auto\n- Fix lỗi tiết kiệm pin"
+  "latest_version": "3.5.2",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.5.2/MaFA_L2M.zip",
+  "changelog": "- Fix lỗi chỗ đạn tinh hồn level 7"
 }
