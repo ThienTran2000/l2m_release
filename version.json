@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.7.0",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.7.0/MaFA_L2M.zip",
-  "changelog": "- Update auto chạy với BlueStacks\n- Fix lỗi ghi nhận với LD"
+  "latest_version": "3.7.1",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.7.1/MaFA_L2M.zip",
+  "changelog": "- Fix lỗi ghi nhận"
 }
