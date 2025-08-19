@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.7.2",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.7.2/MaFA_L2M.zip",
-  "changelog": "- Hỗ trợ chạy cho bản NCV"
+  "latest_version": "3.7.3",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.7.3/MaFA_L2M.zip",
+  "changelog": "- Fix lỗi lên tầng 5\n- Fix lỗi lưu trữ tự động"
 }
