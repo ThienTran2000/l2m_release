@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.8.3",
-  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.8.3/MaFA_L2M.zip",
-  "changelog": "- Update log. Mỗi acc một log riêng"
+  "latest_version": "3.8.4",
+  "download_url": "https://github.com/ThienTran2000/l2m_release/releases/download/v3.8.4/MaFA_L2M.zip",
+  "changelog": "- Fix lỗi ghi nhận"
 }
